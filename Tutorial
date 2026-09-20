@@ -1,2 +1,17 @@
-print("Hello World!")
-print("zingirdinyo kinglere selam")
+# 5 = int
+# 5.5 = float
+# "Hello" = str
+# True/False = bool
+
+a = 5
+print(a)
+
+b = 4
+
+print(a + b)
+
+isim = "Kamil"
+print(isim)
+
+cevap = True
+print("Cevap: ", cevap)
